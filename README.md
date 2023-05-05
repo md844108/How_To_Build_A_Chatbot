@@ -23,6 +23,6 @@ Open OpenAI website(https://platform.openai.com/account/api-keys) and create key
         !pip3 install pytesseract
 
 ## To Run Code 
-        Here I'm using Jupyter Notebook , So run code select sell from up to down and run.
+        Here I'm using Jupyter Notebook , So run code select cell from up to down and run.
         
 
